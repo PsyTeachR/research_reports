@@ -1,0 +1,46 @@
+```{r, echo=FALSE}
+source(file = "include/deadlines.R")
+```
+
+# Week 5
+
+## Lab overview
+
+This week, we are combining a check-in for how your data skills are developing using R/RStudio and helping to prepare for analysing the MSLQ project data. Given we only have a one-hour lab together each week, there is not enough time to teach coding in the labs, but we have these check-ins to see how you are getting on at key milestones throughout the semester. 
+
+In the lab, you will work on a pair programming activity. This is an effective problem solving technique where one person is the "driver" - they write the code - and one person is the "navigator" - they guide the driver through writing code and help fix errors. There will be several tasks to complete, so you will switch between being the driver and the navigator. 
+
+We essentially have 50 minutes in the lab, so preparation is critical this week. Please download the .zip file below or from Moodle and save it on your computer. You can read over the R Markdown template and complete task 0 in preparation, but please do not go any further as the collaboration is key here. 
+
+```{r self reg image, echo=FALSE, out.width = "50%", fig.cap="Pair Programming (Orzechowski, 2024)"}
+knitr::include_graphics("images/pairprogramming.png")
+```
+
+## Tasks to complete prior to your lab
+
+1. Download the .zip file containing the R Markdown template, data folder containing the two data extracts, and the codebook folder containing the two codebooks: [lab_05_MSLQ_wrangling.zip](Supporting/lab_05_MSLQ_wrangling.zip)
+
+2. Extract all the files and folders from within the .zip file and read over the R Markdown template. Please do not complete anything beyond task 0 before the lab as we want you to collaborate. You can work on your own version after the lab. 
+
+::: {.callout-tip}
+#### How do I use .zip files? 
+We provide the materials in a .zip to share a bunch of files together. If you are unfamiliar with a .zip file, make sure you do not try and open your .Rmd file from within and save your work there. You will get a bunch of errors. When you download it, extract the files by opening the .zip file and copy and paste everything to your regular documents or downloads in preparation for task 0. 
+
+On a Mac, you can just double click the .zip file and it will create a regular folder. On a Windows computer, you might need to right-click on it and select extract all. 
+:::
+
+## Tasks to complete after attending your lab
+
+1. We do not expect you to finish all the tasks in the R Markdown template. Make sure you share the files in your pair, so you can continue working on it after the lab. 
+
+2. Nominate someone from your group to add your research question and hypothesis to the Padlet board: [Research Questions and Hypotheses RM1](https://padlet.com/jamesbartlett1/research-questions-and-hypotheses-rm1-q44b7fvg6n9knczm){target="_blank"}
+
+3. Nominate someone from your group to submit the group check-in activity. This involves downloading a Word document to work on collaboratively in your group, then one member submits it on behalf of the group using a Microsoft Form link on Moodle (Formative: Allocations and group work agreement submission tab). 
+
+## Next week 
+
+Next week is reading week!
+
+This is a week without lectures or labs to catch up on any content or work on any areas you consider weaknesses. You have all the tools to work on your stage 1 group report (apart from the specific statistical test you plan on using), so you can also be working on that with your other group members. 
+
+Staff are still around, so please come to our office hours and/or post on Teams if you have any questions. 

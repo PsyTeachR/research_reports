@@ -1,0 +1,31 @@
+# Week 8
+
+```{r L8 setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(knitr)
+```
+
+## Lab overview
+
+This week, you will learn about two topics: data visualisation and the structure of the discussion.
+
+Data visualisation builds on the content for week 7 as we mentioned the inclusion of tables and figures, but nothing on formatting and purpose. We will cover some key APA style elements for formatting plots and tables, and highlight some principles to keep in mind when visualising data. 
+
+You will then learn about the structure of the discussion for what the key elements are. This will be the first of two labs on the discussion, as this week we cover the overall structure, and week 9 will work on identifying limitations. 
+
+## Tasks to complete prior to your lab
+
+1. Read through the [data visualisation](#visualisation) chapter.
+
+2. Read through the [structure of the discussion](#discussion) chapter. 
+
+## Tasks to complete after attending your lab
+
+1. Final editing of your stage one report to submit prior to the deadline. 
+
+2. Start working on your stage two report data analysis, as we will share the full data set after the stage one deadline. 
+
+## Next week
+
+Next week, you will have submitted your stage one group report, so it will be time to focus on the stage two individual report. Now you have your plan, you will be able to analyse the full data set to see what it means for your research question and hypothesis (if you have one). In the lab, we will then work on identifying limitations. 

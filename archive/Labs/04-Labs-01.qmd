@@ -1,0 +1,21 @@
+# Week 1
+
+## Lab overview
+
+The aim of the lab in week 1 is introducing you to the course and assessments. 
+
+You will meet your tutor and graduate teaching assistant (GTA) who will be leading and supporting your lab. You will see an overview of the assessments and break down the registered report that will be the largest component of the course. For example, what the topic of your research report will be, what the group and individual tasks are, and what a registered report is. Your tutor will then guide you through the key sources of support and information, such as the course Teams channel and data skills support sessions. 
+
+Developing your data skills using R/RStudio is mainly through self-directed study with the Fundamentals of Quantitative Analysis workbook. However, a few labs will be dedicated to key milestones. In this first lab, you will see a little tour of RStudio to show what it looks like. 
+
+The end of the lab will then be dedicated to a group discussion on the pre-lab activity on which variable pairs you are most interested in and a general Q&A. 
+
+## Tasks to complete prior to your lab
+
+1. Read the [Registered Report and MSLQ overview chapter](#MSLQ-overview) of the RM1 course book. This will explain the project in more detail and outline the suggested variable pairs for you to discuss and express interest in for the group allocation task. 
+
+## Next week
+
+You will be starting on your group work as the allocations will be available early in week 2. There is some movement as students can move labs until the end of week 2, but we like to start the group process as early as possible. Make sure you keep checking the group allocation as you might find some new group members join, while others may leave. In the lab, you will start working on your group work agreement to discuss how you will work and communicate. 
+
+For research skills, you will start to find and read published peer-reviewed journal articles. Empirical psychology articles have a distinctive, somewhat standardised structure, so you will see an overview of the structure before future labs dissect each section. 

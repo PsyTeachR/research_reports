@@ -1,0 +1,104 @@
+lang: en
+project:
+  type: book
+  output-dir: docs
+  resources: resources
+lightbox: true
+execute:
+  freeze: auto
+book:
+  title: Writing Research Reports
+  subtitle: ''
+  author:
+  - orcid: 0000-0002-4191-5245
+    name:
+      family: Bartlett
+      given: James
+  - orcid: 0000-0001-7715-5973
+    name:
+      family: Paterson
+      given: Helena
+  - orcid: 0000-0002-2237-5087
+    name:
+      family: Pham
+      given: Thinh
+  doi: ''
+  license: CC-BY
+  description: Resources for writing a research report, structured around the major sections of an APA-formatted report.
+  cover-image: images/logos/logo.png
+  image: images/logos/logo.png
+  favicon: images/logos/logo.png
+  cookie-consent: false
+  google-analytics: 'G-6NP3MF25W3'
+  page-navigation: true
+  search: true
+  sidebar:
+    title: ''
+    logo: ''
+    search: true
+    contents: ''
+    style: floating
+    background: light
+    foreground: dark
+    border: true
+    alignment: left
+    collapse-level: 3
+    pinned: true
+    header: ''
+    footer: ''
+  margin-header: ''
+  page-footer: CC-BY (2026) Bartlett, Paterson, & Pham
+  chapters:
+  - index.qmd
+  - part: "Introduction"
+    chapters:
+      - 01-Finding.qmd
+      - 02-Reading.qmd
+      - 03-Rationale.qmd
+      - 04-Writing.qmd
+  - part: "Method"
+    chapters:
+      - 05-Method.qmd
+      - 06-Qualtrics.qmd
+      - 07-Power.qmd
+  - part: "Results"
+    chapters:
+      - 08-Results.qmd
+      - 09-Visualisation.qmd
+      - 10-NHST.qmd
+      - 11-Codereview.qmd
+  - part: "Discussion"
+    chapters:
+      - 12-Discussion.qmd
+      - 13-Limitations.qmd
+      - 14-Abstracts.qmd
+  - 15-References.qmd
+bibliography: include/references.bib
+csl: include/apa.csl
+format:
+  html:
+    theme:
+      light:
+      - flatly
+      - include/light.scss
+      dark:
+      - darkly
+      - include/dark.scss
+    css:
+    - https://use.fontawesome.com/releases/v5.13.0/css/all.css
+    - include/booktem.css
+    - include/webex.css
+    - include/glossary.css
+    - include/style.css
+    df-print: kable
+    code-link: true
+    code-fold: false
+    code-line-numbers: true
+    code-overflow: wrap
+    code-copy: hover
+    highlight-style: a11y
+    mainfont: ''
+    monofont: ''
+    include-after-body:
+    - include/webex.js
+    - include/script.js

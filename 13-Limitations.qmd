@@ -1,0 +1,82 @@
+```{r, echo=FALSE}
+source(file = "include/deadlines.R")
+```
+
+# Identifying Limitations {#13-Limitations}
+
+In this chapter, you will learn about identifying limitations that may threaten the validity of your findings or how these features affect how much confidence you have in your findings/conclusions. It is not about tearing your study apart or the reader will just think "why did you bother in the first place", but if you can own your limitations, it shows you have carefully considered what conclusions you can and cannot make, rather than overselling your findings. 
+
+It takes time and experience to build an understanding of what limitations affect a given area of study or methods, so we wanted to spend extra time on identifying limitations in addition to the chapter on the discussion section. 
+
+Before we start outlining common types of limitations, it is important for the future when you design your own study that you should consider limitations from the design phase. Once you have conducted the study, there is nothing you can do about them. However, no individual study provides the definitive answer to a research question. You must make decisions and often you must make compromises when designing a study. So, try and avoid as many limitations as you can in the design phase, and for the limitations you cannot avoid, make sure you can justify why you accepted the limitation. 
+
+## The four validities
+
+Limitations typically focus on your methods as they are elements you no longer have any control over. Clarke and colleagues have released some excellent articles on limitations in psychology articles and reinforce the idea of the four validities. These are not exhaustive and there are some limitations which cannot be classified this way, but we think it is a good way to develop an appreciation of what limitations are and provide inspiration for what features you might identify as limitations.
+
+Validity relates to the truth of an inference ([Clarke et al., 2023](https://doi.org/10.1037/pspp0000458){target="_blank"}), meaning how confident you can be in the conclusions you made from a given finding. The four validities relate to different elements that affect that confidence: 
+
+1. External validity - how generalisable you think a finding is. 
+
+2. Construct validity - how well a measure or manipulation represents a given psychological construct. 
+
+3. Internal validity - whether there is evidence of a causal relationship between your variables.
+
+4. Statistical conclusion validity - whether your statistical approach can provide valid inferential statistics. 
+
+Before we outline the kind of features that you could question as a limitation, [Clarke et al. (2024)](https://doi.org/10.1111/spc3.12979){target="_blank"} provide guidance on how to approach identifying limitations:
+
+- Focus on your most important limitations - avoid the temptation to list every limitation you can think of. It is not about undermining your study or distracting the reader, but highlighting one or two in detail and do them justice. 
+
+- Be specific - avoid generic limitations that could be applied to almost any study. It is important to contextualise the limitation you identified and explain how it affects what you can conclude from your specific study. 
+
+- Explain, don't excuse - You do not need to spin your limitations as a strength (think of a job interview where someone says "I'm too much of a perfectionist"), the critical reader is interested in how you can explain the implications of your limitations for the conclusions you make. 
+
+If you have time, we recommend reading the article from [Clarke et al. (2024)](https://doi.org/10.1111/spc3.12979){target="_blank"} in full as they provide advice on better practice in outlining limitations, but for this chapter, we will summarise their key categories.
+
+#### External validity 
+
+- Selection bias - Did you use a representative sample of your target population in your study? Does your sample not include traditionally underrepresented or understudied populations? 
+
+- Limited generalisability across cultures - Can you apply the findings from the cultural context of your study to another cultural context? 
+
+- Situation effects - Would you expect the findings to be consistent across new contexts or time periods? 
+
+- Low realism - Could your sample setting and choice of measure generalise from your study to your target setting and construct? 
+
+- Theoretical generalisability - Does the theory behind your study apply universally to all humans or would it only apply locally to a specific population? 
+
+#### Construct validity 
+
+- Construct definition errors and ambiguities - Did you clearly define your psychological construct  and choose a measure accordingly?
+
+- Insufficient validity evidence - Is there sufficient validity evidence for your measures and/or manipulations? 
+
+- Using measures/manipulations with little or no validation - If you developed a measure/manipulation specifically for your study, is there evidence it is valid and reliable? 
+
+- Short measures - If a measure is too short, is this a limitation or is there sufficient validation evidence? 
+
+- Over-reliance on self-reports - If you measure your construct with a self-report method, is this the best way to measure your construct? 
+
+#### Internal validity 
+
+- Observational study - If you did not conduct an experiment or provide specific inferential evidence for a causal relationship, how could your inferences be biased by potential confounding variables? 
+
+- Reverse causation - If you did not provide specific inferential evidence for a causal relationship, how plausible would each direction of the relationship be? 
+
+- Unobserved confounding - If you did not provide specific inferential evidence for a causal relationship, what plausible additional confounding variables could there be? 
+
+#### Statistical conclusion validity 
+
+- Exploratory research - Are you making strong conclusions based on unplanned analyses with an unknown false positive error rate? 
+
+- Underpowered research - Did you use a sufficient number of participants to detect your smallest effect size of interest? 
+
+- Weak statistical evidence - Do your main conclusions rely on weak statistical evidence, such as a *p*-value very close to your alpha? 
+
+- Small effect sizes - What is the practical significance of your effect size estimate?
+
+## Summary 
+
+Hopefully, dedicating extra space to identifying limitations provides inspiration for what features of your study could affect confidence in your findings. Remember this is not about intentionally undermining your study, but instilling trustworthiness by realistically adding caveats for what you can and cannot conclude in your study. The four validities popularised by the work of Clarke et al. are meant to provide a starting point and help calibrate your understanding of what a legitimate limitation is. If you can identify a limitation applicable to your study that is not covered here, you can still outline it, but it is important you are specific and support your evaluation with evidence wherever possible. 
+

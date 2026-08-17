@@ -1,0 +1,33 @@
+```{r, echo=FALSE}
+source(file = "include/deadlines.R")
+```
+
+# Week 3
+
+## Lab overview
+
+Now you are working in your groups, we will start to build the skills and understanding that will go into your report writing. Before reading week, we will focus on the stage one group report. This means we will break down the introduction and method sections for what research has influenced your study and how you designed your study to test your research question.
+
+This week, we are focusing on the introduction. This is the first major part of a report and usually one of the longest. The aim of a report introduction is to explain and justify the gap you identified in previous research. Keep the broad to narrow structure in mind. You typically start by providing a focused literature review explaining why the topic is important to study and what previous research and theory is out there. As you move through the introduction, you get more and more specific to guide the reader towards your rationale. The rationale is the purpose of your study, or what gap your study is addressing and why it is important to do so. Finally, the introduction typically ends on your research question and your hypothesis (if applicable). 
+
+After a summary of the pre-lab reading chapter, the group element of the lab will focus on discussing where the article you found (see pre-lab tasks) might contribute to your stage one report introduction. Is it more background research or theory, or could it contribute as a key study towards your rationale? With any remaining time and then outside the lab, you can discuss how your group might structure your introduction and consider roles for writing and editing. 
+
+## Tasks to complete prior to your lab
+
+1. Read and work through this week's research skills chapter on [Structure of the Introduction and Rationale](#intro-rationale). 
+
+2. Read just the introduction section (pages 1 and 2) of the article [*Registered Replication Report: Testing Disruptive Effects of Irrelevant Speech on Visual-Spatial Working Memory*](https://jeps.efpsa.org/articles/10.5334/jeps.450){target="_blank"} by Kvetnaya (2018). Try and spot the different features we covered in the research skills chapter like a literature review, rationale, research question, and hypothesis. 
+
+    We use this paper as it's a registered report (you can find the [stage one version online here](https://osf.io/j4475){target="_blank"} if you are curious how it changed in the final manuscript) and it's from a student journal, so the scope of the project is a smaller. The topic and analysis will be unfamiliar, but we just want you to focus on how they communicated the introduction for now. 
+
+3. Using the literature searching strategies you learnt about in week 2, find **one** article that could contribute to your group's introduction section. 
+
+## Tasks to complete after attending your lab
+
+1. Before the deadline of **`r groupagreement_due`**, submit your individual copy of the group work agreement you developed and agreed on in your group. Remember you work on a single version of the group work agreement, then **every** member individually (electronically) signs a copy and uploads it to the portal. 
+
+2. If you are still discussing your variable pair, aim to finalise your group decision before the end of week 3. 
+
+## Next week 
+
+Next week, we will explore the method section as the second major component of an empirical psychology report. The structure is a little more standardised with distinct sub-sections to help report the key information on how you designed your study. 

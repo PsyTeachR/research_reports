@@ -1,0 +1,50 @@
+# Null Hypothesis Significance Testing (NHST){#10-NHST}
+
+In this chapter, we have some bonus content to help understand Null Hypothesis Significance Testing (NHST). The logic behind NHST takes time to get used to and it helps to play around with simulations or visualisations to see how things fit together. The psychologist Dr Kristoffer Magnusson made a series of visualisations under the website [R Psychologist](https://rpsychologist.com/viz){target="_blank"} and we will explore two of them: understanding *p*-values through simulations and understanding statistical power and significance testing.
+
+## Understanding *p*-values through simulations
+
+You can access the first visualisation via this link: [https://rpsychologist.com/pvalue/](https://rpsychologist.com/pvalue/){target="_blank"}. We have also recorded a video walking through the visualisation to use alongside the explanations below: 
+
+<iframe height="240" width="320" allowfullscreen frameborder=0 src="https://echo360.org.uk/media/01b3ba16-43f1-4429-a728-001642d59396/public?autoplay=false&automute=false"></iframe>
+
+Simulations are super helpful for learning about statistical concepts since we can create known conditions. In a real experiment, we ultimately do not know for certain whether the null or alternative is true, so we are trying to guide our decision making through hypothesis testing, preparing for different possibilities. 
+
+There are four main areas: 
+
+- **Select a value for Cohen's d**: This is the standardised mean difference / the difference expressed as standard deviations. Setting it 0 (no effect) means the null hypothesis is true since there is no difference in the population. A larger value would mean the alternative is true since we know there *is* an effect in the population. 
+
+- **Sample observations**: Based on the value for Cohen's d, we sample from a normal distribution. In the control panel, we can change the sample size. Based on the sample size, we sample observations from the distribution. 
+
+- **Calculate test statistic**: From the sample observations, we calculate a test statistic. From the control panel, we can choose from the mean (average of the observations), z-value (average deviation from the null), or *p*-value (the *p*-value for the sample). 
+
+- **Calculate *p*-value**: For each test statistic calculated from the sample observations, this adds to the probability distribution. Every time we draw a sample, it goes through the process above and adds to the distribution.
+
+Hopefully, this will make the probability distribution aspect a little more tangible. In any individual study, we have a bunch of observations, calculate a sample statistic, then calculate the *p*-value. We either reject the null or not, probability does not apply to individual events. We use NHST to help us make decisions on rejecting the null or not, and that influences what we conclude about the hypothesis in our study. 
+
+In any one study, it is either statistically significant if the *p*-value is equal to or below alpha, or not significant if the *p*-value is above alpha. Probability **does not** apply to how likely/unlikely the null hypothesis is in any one study. Probability applies to the collective and what we would expect in the long-run. 
+
+We need simulations to demonstrate this since in real research we do not know with any certainty whether the null is true or false in the population. Here, we can simulate these conditions and see how the concepts behave. 
+
+## Understanding statistical power and significance testing
+
+You can access the second visualisation via this link: [https://rpsychologist.com/d3/nhst/](){target="_blank"}. We have also recorded a video walking through the visualisation to use alongside the explanations below: 
+
+<iframe height="240" width="320" allowfullscreen frameborder=0 src="https://echo360.org.uk/media/fc239cdf-2858-4601-bc19-f54fcc6cf44e/public?autoplay=false&automute=false"></iframe>
+
+Instead of simulating the behaviour of samples and how they form distributions, this time we are exploring how the four main concepts of hypothesis testing fit together. For example, in power analysis, you can calculate how many participants you need based on a given alpha, beta/power, and smallest effect size of interest. Decision making is critical when using hypothesis testing as it's designed to limit the errors you make when rejecting the null hypothesis or not. Hopefully, you will see the implications of these decisions when playing around with the visualisation. 
+
+You can choose from the four main hypothesis testing concepts as the one to solve for: 
+
+- **Power**: What power do we have for a given alpha, sample size, and effect size? In reality, this is not useful and is known as post-hoc power. When applied to an individual study, it's an attractive idea, but it omits the long-run aspect of the probability and mistakes the sample estimate for the population value.
+
+- **Alpha**: What would be the type I error rate for a given power, sample size, and effect size? Like power, this is not normally what you are interested in for the output.
+
+- **n**: What sample size would we need for a given power, alpha, and effect size? This is the traditional sense of power analysis where we calculate the number of participants we need to conduct an informative study, given your inputs. 
+
+- **d**: What effect size could you detect for a given power, alpha, and sample size? This is the second type of informative output known as a sensitivity power analysis. If you have a known sample size, you can calculate what was the smallest effect size you could reliably detect, given your inputs. 
+
+This visualisation is a useful educational exercise for seeing how the inputs change the output. Just keep in mind it's aimed at a very limited application, we do not recommend using the sample size output to report for a power analysis. There is a chapter in the Fundamentals of Quantitative Analysis dedicated to power analysis. 
+
+There is also a button to toggle a one- or two-tailed test. This is useful for seeing how the area of the null distribution changes depending on whether you spend all the alpha in one tail or two. 
+

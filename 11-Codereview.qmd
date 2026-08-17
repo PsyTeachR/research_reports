@@ -1,0 +1,75 @@
+# Code Review{#11-Codereview}
+
+Code review is extremely common in software engineering but rare in academia despite the rise in programming-based statistics software like R/RStudio. The aim of code review is to provide a formal or informal evaluation of someone else's code to make sure it works and it is producing the intended output. We are organising the advice around [Ivimey-Cook et al. (2023)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.14230){target="_blank"} who wrote about code review in science and provide a check-list for you to refer to. 
+
+To complete the code review, we have developed a Word version of a checklist which you can [download here](Supporting/code_review_template.docx). Make sure you read the guidance below to add context to the checklist. 
+
+If you want to peer-review someone else's code, make sure you package up your .Qmd file and relevant folders into a .zip file. That will mean someone can extract everything and it should be in the correct file/folder structure. 
+
+## The 4 Rs
+
+Ivimey-Cook et al. present the 4 Rs behind code review. You might not be able to complete every step as you will not have all the information available, but we will outline how it might help. 
+
+**1. Is the code as reported?** 
+
+The methods and code must match. This means what they describe in say the method and results section is actually what they apply. For example, if they say they reported a t-test but they have code for a correlation, this would be a mismatch between the methods and code. 
+
+If you review code from someone in the same group, this will be achievable as you know what the intention is. If you review code from someone from a different group, you might need to ask for context on their project. 
+
+**2. Does the code run?** 
+
+If you press run, does the code run? This is the simplest check as you do not need to know the intention of the code, just whether it runs or not. 
+
+This step is achievable for everyone who completes code review. If the folder and file organisation is correct, you should be able to click run all or knit, and the code should run.
+
+If it does not run, consider the following: 
+
+- Are the folders and files where they should be? 
+
+- Do you have the necessary packages installed? 
+
+- Are there typos in their code? 
+
+- Is the code in the wrong order, so it does not run from the start to the finish? 
+
+**3. Is the code reliable**
+
+Similar to step 1, the idea here is whether the code runs and completes as intended. The worst kind of errors are when code "runs", but it does not produce the intended output. For example, you select the wrong column, introduce NAs, or use the wrong function. 
+
+If you review code from someone in the same group, this will be achievable as you know what the intention is. If you review code from someone from a different group, you might need to ask for context on their project. 
+
+**4. Are the results reproducible**
+
+The final step is checking whether the results are reproducible. This is something you probably will not be able to complete for this exercise. The idea is to check the output from the code matches what you write in the report. For example, if your code reproduces a Pearson's correlation with *r* = .35, but your report includes a typo *r* = .53. 
+
+## Code review across the workflow
+
+Ivimey-Cook et al. also include suggestions for where in the project workflow code review can be useful. 
+
+**1. Project organisation** 
+
+- Is the folder structure logical? - Do they use clear folder and sub-folder structure? 
+
+- Are the raw data, code, and outputs separated? - Do they store each component separately? 
+
+- Do the file and folder named complement the workflow? - Are the names of the files and folder clear enough that you can understand what everything does days, weeks, or months down the line? 
+
+**2. Project and input metadata** 
+
+- Can someone under the workflow and content of the data? - If there are multiple scripts or files, is clear which one you should open first to complete the coding steps in the correct order? 
+
+- Is a README provided to explains data contents and curation? - This is not something we expect on this course, but a README is a separate file which explains what all the other files and folder do. 
+
+**3. Code readability**
+
+- Is the code understandable? - Using clear headings and sub-headings, adding intuitive code comments, use clear object names for what they represent. 
+
+- Does the code have a consistent style? - When naming objects, using a clear and consistent naming convention like snake case (clean_data) or camel case (CleanData). 
+
+- Is external package use clearly documented? - For example, checking they load all the packages  in one place and there are not redundant packages which they do not use. 
+
+**4. Output reproducibility**
+
+- Can the results be reproduced? - Like step 4 in the 4 Rs, the idea is to check the output from the code matches what you write in the report.
+
+- Is there a clear link between the code and output? - As you read through the code, make sure it is clear what each part of the code does. For example, wrangling data and what exclusion criteria mean, and visualising data and what plot settings do. 

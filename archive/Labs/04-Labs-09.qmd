@@ -1,0 +1,49 @@
+# Week 9
+
+## Lab overview
+
+In the week 9 lab of the semester, we are finishing off two final components of an empirical quantitative report. 
+
+First, we will explore limitations in greater detail. These are included in the discussion and inform the reader about features of your study that may threaten the validity of your findings and how these features affect how much confidence you have in your findings/conclusions. We introduced the idea of limitations to you last week, but it takes time and experience to develop a good sense of what specific limitations affect your study. So, this week, we introduce you to a framework to help think about different types of limitations and hopefully inspire you to think about what limitations are present in your work. 
+
+Second, we will end on the final component of a report: the abstract. You have probably read enough articles by now to recognise you read the abstract first. After the title, it's typically the first thing you read and provides a little overview of your report. If you are conducting a literature review, you might read the abstract and decide whether the full article is worth reading or not. So, an effective abstract provides a summary of your whole report, condensed into a paragraph. 
+
+## Tasks to complete prior to your lab
+
+1. Read the [Identifying Limitations and Structure of the Abstract](#limitations_abstract) chapter. 
+
+2. Complete the [abstract comparison task](#abstract-task).  
+
+## Tasks to complete after attending your lab
+
+1. Finalise your processing and analysis script to address your research question and hypothesis (if applicable) from the stage one report. 
+
+2. Start drafting the results section for your stage two individual report. 
+
+## Next week
+
+Next week is the final lecture and lab of the course and semester. You have come a long way since the start of the programme, so we hope you are very proud of yourselves to build all this subject knowledge, research skills, and data skills in such a short space of time. 
+
+In the lab, it will be a final R focused lab for a code peer-review to make sure you analyses are reproducible and spot potential errors. It will also be an opportunity to discuss your findings and code with your lab lead and GTA. 
+
+## Abstract comparison task{#abstract-task}
+
+We have three different versions of an abstract and we would like you to read through them and decide a) what is the order of best to worst, and b) how would you improve the best one? You can do this task yourself or in a group. The key to this task is thinking about the comparison between the versions, so be sure to actively make notes on what made one version better than another. 
+
+The aim of the abstract is to provide an overview of a whole article, so unlike the results comparison tasks, we do not have a task context section. If there is not enough context to understand what it is about, maybe that would be an evaluation point...
+
+### Sections to compare
+
+If it would help to make notes on a Word version, you can [download the three versions](Supporting/09_abstract_comparison.docx). 
+
+#### Version 1 
+
+To meet net zero targets, it is important for people to adopt more sustainable behaviours, but it can be difficult to initiate change in people (Michie, 2013; Francis et al., 2015). Aldoh et al. (2021) argue that social norms are important when considering how to convince people to adopt more sustainable behaviours. Sparkman and Whalton (2017) found that participants who read a dynamic message emphasising how the wider population are adopting more sustainable behaviour reported greater interest in eating less meat than a static message only explaining how many people currently adopt the behaviour. We randomly allocated participants to receive a dynamic (n = 143) or static (n = 129) message about eating less meat, then they responded to a 1-7 Likert scale on their interest in eating less meat. The mean interest rating in the dynamic group was 3.45 and the mean rating in the static group was 3.31. A Welch t-test was not statistically significant, t(267.27) = 0.63, *p* = .528. The effect size was very small with a mean difference in interest rating of 0.14 and a Cohen’s d of 0.08. Our findings suggest that a simple message may not be enough to change people’s interest in adopting more sustainable behaviours. 
+
+#### Version 2 
+
+Our study directly replicated a previous study to investigate if participants who receive a dynamic message report greater interest in eating less meat than participants who receive a static message. Participants were in a dynamic (n = 143) or static (n = 129) group and responded to a 1-7 Likert scale. The difference between the two groups was not statistically significant. We did not replicate the target study and the implications will be discussed.   
+
+#### Version 3 
+
+To meet net zero targets, it is important for people to adopt more sustainable behaviours, but it can be difficult to initiate change in people. Sparkman and Whalton (2017) found that participants who read a dynamic message emphasising how the wider population are adopting more sustainable behaviour reported greater interest in eating less meat than a static message only explaining how many people currently adopt the behaviour. Our study directly replicated Sparkman and Whalton (2017) to investigate if participants who receive a dynamic message report greater interest in eating less meat than participants who receive a static message. We randomly allocated participants to receive a dynamic or static message about eating less meat, then they responded to a 1-7 Likert scale on their interest in eating less meat. A Welch t-test found that the difference in interest rating between the two groups was not statistically significant with a very small effect size (d = 0.08). Our findings suggest that a simple message may not be enough to change people’s interest in adopting more sustainable behaviours, but future research should investigate more direct measures, such as whether people actually eat less meat after the manipulation.  

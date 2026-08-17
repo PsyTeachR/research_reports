@@ -1,0 +1,16 @@
+{
+  "hash": "1864c9b693c38716f64d69260680b576",
+  "result": {
+    "markdown": "# Week 8\n\n\n\n\n\n## Lab overview\n\nThis week, you will learn about two topics: data visualisation and the structure of the discussion.\n\nData visualisation builds on the content for week 7 as we mentioned the inclusion of tables and figures, but nothing on formatting and purpose. We will cover some key APA style elements for formatting plots and tables, and highlight some principles to keep in mind when visualising data. \n\nYou will then learn about the structure of the discussion for what the key elements are. This will be the first of two labs on the discussion, as this week we cover the overall structure, and week 9 will work on identifying limitations. \n\n## Tasks to complete prior to your lab\n\n1. Read through the [data visualisation](#visualisation) chapter.\n\n2. Read through the [structure of the discussion](#discussion) chapter. \n\n## Tasks to complete after attending your lab\n\n1. Final editing of your stage one report to submit prior to the deadline. \n\n2. Start working on your stage two report data analysis, as we will share the full data set after the stage one deadline. \n\n## Next week\n\nNext week, you will have submitted your stage one group report, so it will be time to focus on the stage two individual report. Now you have your plan, you will be able to analyse the full data set to see what it means for your research question and hypothesis (if you have one). In the lab, we will then work on identifying limitations. \n",
+    "supporting": [
+      "04-Labs-08_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

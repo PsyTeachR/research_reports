@@ -1,0 +1,75 @@
+```{r, echo=FALSE}
+source(file = "include/deadlines.R")
+```
+
+# Structure of the Abstract {#14-Abstracts}
+
+In this chapter, you will learn about the abstract as the summary of your whole report. It comes right at the start and is the first thing people will read but it is normally the last thing that people write as it summarises all the different sections of the report you will have already written. 
+
+The abstract highlights the key point or points from each section of the report: the introduction, the methods, the results, and the discussion. In other words, [Gernsbacher (2018)](https://doi.org/10.1177/2515245918754485){target="_blank"} describes it as “A clear abstract states the study’s primary hypothesis; its major methodology, including its sample size and sampled population; its main findings, along with their summary statistics; and its key implications". Koopman (1997, cited in [Derntl, 2014](https://doi.org/10.1504/IJTEL.2014.066856){target="_blank"}) suggests the following structure:
+
+- Motivation (General Area): Why do we care about the problem and the results? 
+
+- Problem (Aim of Paper - Research Question): What problem is the paper trying to solve and what is the scope of the work? 
+
+- Solution (Methods): What was done to solve the problem? 
+
+- Results: What is the answer to the problem? 
+
+- Implications: What implications does the answer imply?
+
+Ideally, you are looking for one or two sentences from each of the different sections. You do not normally just copy and paste a sentence from each part, rather summarising the key information from each part. Remember this is a rough guide for how much detail you need. It would not be a problem if you need three sentences to outline a key component, but you probably do not need six sentences for each. We will now elaborate on those key areas. 
+
+**Start off with the background and rationale**
+
+- Here you are looking for one or two sentences giving the brief background of the study for what we know, then the main problem you wanted to address or issues in the current field - basically your rationale for the current study. This provides an insight into the research question for your study. 
+
+**The method**
+
+- This is not a highly detailed summary, rather an overview of your approach, stating things like the number of participants, who were they, and what they did. 
+
+**The Results**
+
+- State the main findings and what tests you used. We tend not to outline all the numbers in an abstract, but it can be useful to report key effect sizes. Think of it like a short version of how you would start the discussion section. 
+
+**Brief interpretation or implications of the study**
+
+- You are looking to cover the main outcome of your study, trying to relate that back to theory or the main issue you wanted to address - your rationale. See it as “closing the loop” to see if you addressed your research question.
+
+- Try and avoid ending on limitations as these will be covered in your report. The main point of this final component is to briefly relate your findings to previous research and theory. 
+
+- It is also a waste of words to end on something uninformative like "the implications of the results will be discussed". We would consider this a given, so try and offer the reader something concrete. 
+
+For some final formatting advice, it is normally written as one paragraph approximately 200-250 words long. For an APA style report:
+
+- It will appear on the first page after your title page.
+
+- We recommend the single paragraph approach, but some journals request a "structured" abstract where the key components are broken down into little headers. For this course, we would like you to start learning the key components and write it as a single paragraph, but we want to make you aware there are differences in style. 
+
+- It should have the title at the top of the abstract. The title does not count in the 200-250 words.
+
+- You do not need to add keywords at the end of the abstract. You will see these included in some journal articles, but you do not need them for a student report. 
+
+### Breaking down an example abstract
+
+Looking at examples can help show how the ideas build up. Here is an adapted example from [Tsantani et al (2016)](https://doi.org/10.1177/0301006616643675){target="_blank"} broken down to highlight the key components. 
+
+#### Background and rationale
+
+> **Vocal pitch has been found to influence judgments of perceived trustworthiness and dominance from a novel voice. However, the majority of findings arise from using only male voices and it is unclear how the pitch of female voices affects judgements of trust and dominance. Here we explore the influence of average vocal pitch on first-impression judgments of perceived trustworthiness and dominance and hypothesise that there will be a preference for low-pitched voices in both genders regardless of judgement.**
+
+#### Methods
+
+> Vocal pitch has been found to influence judgments of perceived trustworthiness and dominance from a novel voice. However, the majority of findings arise from using only male voices and it is unclear how the pitch of female voices affects judgements of trust and dominance. Here we explore the influence of average vocal pitch on first-impression judgments of perceived trustworthiness and dominance and hypothesise that there will be a preference for low-pitched voices in both genders regardless of judgement. **40 pairs of high- and low-pitched temporally reversed recordings of male and female vocal utterances were presented in a two-alternative forced-choice task to 40 participants.** 
+
+#### Results
+
+> Vocal pitch has been found to influence judgments of perceived trustworthiness and dominance from a novel voice. However, the majority of findings arise from using only male voices and it is unclear how the pitch of female voices affects judgements of trust and dominance. Here we explore the influence of average vocal pitch on first-impression judgments of perceived trustworthiness and dominance and hypothesise that there will be a preference for low-pitched voices in both genders regardless of judgement.40 pairs of high- and low-pitched temporally reversed recordings of male and female vocal utterances were presented in a two-alternative forced-choice task to 40 participants. **Through a series of t-tests and Wilcoxon signed-rank tests, we found a tendency for participants to select the low-pitched voice over the high-pitched voice as more trustworthy, for both genders, and more dominant, for male voices only.**
+
+#### Implications
+
+> Vocal pitch has been found to influence judgments of perceived trustworthiness and dominance from a novel voice. However, the majority of findings arise from using only male voices and it is unclear how the pitch of female voices affects judgements of trust and dominance. Here we explore the influence of average vocal pitch on first-impression judgments of perceived trustworthiness and dominance and hypothesise that there will be a preference for low-pitched voices in both genders regardless of judgement. 40 pairs of high- and low-pitched temporally reversed recordings of male and female vocal utterances were presented in a two-alternative forced-choice task to 40 participants. Through a series of t-tests and Wilcoxon signed-rank tests, we found a tendency for participants to select the low-pitched voice over the high-pitched voice as more trustworthy, for both genders, and more dominant, for male voices only. **We propose that an overall preference for low pitch is a default prior in male voices irrespective of context, whereas pitch preferences in female voices are more context- and situation-dependent. The present study confirms the important role of vocal pitch in the formation of first-impression personality judgments and advances understanding of the impact of context on pitch preferences across genders.**
+
+### Conclusion
+
+This is our advice to learn the key components to include in an abstract. However, you will see a lot of variation in how people approach writing abstracts and standards have changed over time. For example, it was rare to include the sample size of your study, but this is now considered essential to include in the abstract. So, while we recommend looking over abstracts in articles from your literature review to develop a sense of style, try and do so critically as they might not be great examples.
