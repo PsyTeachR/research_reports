@@ -1,4 +1,4 @@
-# Code Review{#11-Codereview}
+# Code Review {#11-Codereview}
 
 Code review is extremely common in software engineering but rare in academia despite the rise in programming-based statistics software like R/RStudio. The aim of code review is to provide a formal or informal evaluation of someone else's code to make sure it works and it is producing the intended output. We are organising the advice around [Ivimey-Cook et al. (2023)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.14230){target="_blank"} who wrote about code review in science and provide a check-list for you to refer to. 
 

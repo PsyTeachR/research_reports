@@ -1,4 +1,4 @@
-# Null Hypothesis Significance Testing (NHST){#10-NHST}
+# Null Hypothesis Significance Testing (NHST) {#10-NHST}
 
 In this chapter, we have some bonus content to help understand Null Hypothesis Significance Testing (NHST). The logic behind NHST takes time to get used to and it helps to play around with simulations or visualisations to see how things fit together. The psychologist Dr Kristoffer Magnusson made a series of visualisations under the website [R Psychologist](https://rpsychologist.com/viz){target="_blank"} and we will explore two of them: understanding *p*-values through simulations and understanding statistical power and significance testing.
 
